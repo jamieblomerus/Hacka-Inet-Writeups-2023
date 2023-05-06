@@ -24,3 +24,5 @@ Här är en lista med länkar till de olika flaggornas writeups:
 Observera att för att kunna använda mina lösningar och instruktioner behöver du ha tillgång till "Hacka Inet" CTF-utmaningen. Utmaningen är inte tillgänglig i denna repo. Om du har några frågor eller funderingar om någon av lösningarna eller instruktionerna, kan du öppna en issue på Github eller kontakta mig direkt via email.
 
 Lycka till!
+
+**Vill du stötta mitt arbete?** *Gå in på min [HackTheBox-profil](https://app.hackthebox.com/profile/967146) och ge mig respekt.*
